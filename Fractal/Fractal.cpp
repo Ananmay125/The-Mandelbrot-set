@@ -10,7 +10,7 @@ const int HEIGHT = 800;
 double zoom = 200.0;      // Initial zoom level
 double offsetX = -0.5;    // Initial x offset
 double offsetY = 0.0;     // Initial y offset
-int maxIterations = 1500;  // Maximum iterations for Mandelbrot calculation
+int maxIterations = 600;  // Maximum iterations for Mandelbrot calculation
 
 // Mouse state for panning
 bool isDragging = false;

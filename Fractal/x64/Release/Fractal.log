@@ -2,7 +2,7 @@
 C:\Users\Spicy32\source\repos\Fractal\Fractal\Fractal.cpp(186,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 C:\Users\Spicy32\source\repos\Fractal\Fractal\Fractal.cpp(186,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
   Generating code
-  2 of 47 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+  1 of 47 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
